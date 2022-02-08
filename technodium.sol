@@ -352,7 +352,7 @@ contract BEP20Token is Context, IBEP20, Ownable {
 
   constructor() public {
     _name = "Technodium";
-    _symbol = "TEHNO";
+    _symbol = "TECHNO";
     _decimals = 18;
     _totalSupply = 21000000000000000000000000;
     _balances[msg.sender] = _totalSupply;
