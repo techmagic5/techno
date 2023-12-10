@@ -4,4 +4,4 @@
 <br>
 Telegram Group: <a href="https://t.me/technodium">https://t.me/technodium</a><br>
 Twitter: <a href="https://twitter.com/tehnodium">https://twitter.com/tehnodium</a><br>
-Website: <a href="https://tehnodium.com">https://tehnodium.com</a></p>
+Website: <a href="https://technodium.ru">https://technodium.ru</a></p>
